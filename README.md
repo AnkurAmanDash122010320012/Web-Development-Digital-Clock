@@ -1,0 +1,2 @@
+# Web-Development-Digital-Clock
+A digital clock is a type of clock that displays the time digitally, i.e. in numerals or other symbols, as opposed to an analog clock, where the time is indicated by the positions of rotating hands. Digital clocks are often associated with electronic drives, but the "digital" description refers only to the display, not to the drive mechanism. Digital Clock -> This clock includes Date (Day, Month, Year), Time (Hours, Minutes, Seconds) and Period (AM/PM). The clock is in 24 hours format.
